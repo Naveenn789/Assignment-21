@@ -1,0 +1,7 @@
+C:\Mphasis\Day-16\ConAppAssignment21Part1\ConAppAssignment21Part1\bin\Debug\ConAppAssignment21Part1.exe.config
+C:\Mphasis\Day-16\ConAppAssignment21Part1\ConAppAssignment21Part1\bin\Debug\ConAppAssignment21Part1.exe
+C:\Mphasis\Day-16\ConAppAssignment21Part1\ConAppAssignment21Part1\bin\Debug\ConAppAssignment21Part1.pdb
+C:\Mphasis\Day-16\ConAppAssignment21Part1\ConAppAssignment21Part1\obj\Debug\ConAppAssignment21Part1.csproj.AssemblyReference.cache
+C:\Mphasis\Day-16\ConAppAssignment21Part1\ConAppAssignment21Part1\obj\Debug\ConAppAssignment21Part1.csproj.CoreCompileInputs.cache
+C:\Mphasis\Day-16\ConAppAssignment21Part1\ConAppAssignment21Part1\obj\Debug\ConAppAssignment21Part1.exe
+C:\Mphasis\Day-16\ConAppAssignment21Part1\ConAppAssignment21Part1\obj\Debug\ConAppAssignment21Part1.pdb
